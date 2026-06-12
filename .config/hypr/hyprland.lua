@@ -1,3 +1,4 @@
+require("config.colors")
 require("modules.monitors")
 require("modules.env")
 require("modules.autostart")
@@ -6,3 +7,4 @@ require("modules.rules")
 require("modules.binds")
 require("modules.animations")
 require("modules.lang")
+

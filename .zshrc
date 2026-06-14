@@ -19,4 +19,4 @@ fastfetch
 
 PROMPT='%F{cyan}%~
 %F{green}%n%F{blue}$%f '
-RPROMPT='${vcs_info_msg_0_}'
+RPROMPT='%F{yellow}${vcs_info_msg_0_}%f'

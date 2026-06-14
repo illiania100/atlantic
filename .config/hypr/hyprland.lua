@@ -6,5 +6,5 @@ require("modules.core")
 require("modules.rules")
 require("modules.binds")
 require("modules.animations")
-require("modules.lang")
+require("config.input")
 

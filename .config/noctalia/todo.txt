@@ -1,0 +1,5 @@
+things that i will replace with noctalia
+1.hyprlauncher(currently noctalia launcher is not customizable)
+2.alacritty CONF
+3.fasfetch conf maybe
+4.ai dropdown, noctalia v5 is too thin to implement this right now

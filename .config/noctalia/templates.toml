@@ -1,5 +1,5 @@
 [theme.templates]
 enable_builtin_templates = true
-builtin_ids              = ["alacritty","gtk3","gtk4","kcolorscheme","qt","btop"]        # opt-in; run: noctalia theme --list-templates\
+builtin_ids              = ["alacritty","gtk3","gtk4","kcolorscheme","qt","btop","hyprland"]        # opt-in; run: noctalia theme --list-templates\
 enable_community_templates = true
 community_ids              = ["zen-browser","vscode"," hyprtoolkit","telegram","discord"]        # opt-in; fetched from api.noctalia.dev/templates

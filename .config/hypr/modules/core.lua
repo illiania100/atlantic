@@ -5,11 +5,6 @@ hl.config({
 
         border_size = 2,
 
-        col = {
-            active_border   = focus,
-            inactive_border = background,
-        },
-
         -- Set to true to enable resizing windows by clicking and dragging on borders and gaps
         resize_on_border = false,
 

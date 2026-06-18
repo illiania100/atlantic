@@ -1,0 +1,12 @@
+[notification]
+enable_daemon          = true
+show_app_name            = true
+position                 = "top_left"
+layer                    = "top"
+scale                    = 1
+background_opacity       = 1
+offset_x                 = 0
+offset_y                 = 0
+monitors                 = []
+collapse_on_dismiss      = true
+
